@@ -1,0 +1,5 @@
+This is text file.
+Created in Sublime Text.
+uses for read, write and append mode.
+
+Used append mode
